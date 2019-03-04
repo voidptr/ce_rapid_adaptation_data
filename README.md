@@ -8,4 +8,6 @@ https://github.com/voidptr/research_scripts/
 
 Intermediate data may be found in this repository, along with Jupyter notebooks for generating the figures and stats.
 
-Raw data may be download from the raw data repository.
+Raw data may be download from the raw data repository, hosted on figshare (https://figshare.com/articles/The_Evolution_of_Evolvability_Changing_Environments_Promote_Rapid_Adaptation_in_Digital_Organisms_-_Data_Archive/7800590) 
+
+DOI: 10.6084/m9.figshare.7800590.v1.
